@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/03/06 17:45:15.072,=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/06 17:45:48.987,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula AgendaContatos\UnitPrincipal.pas=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/06 17:45:48.987,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula AgendaContatos\UnitPrincipal.dfm=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/03/06 17:46:23.781,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula AgendaContatos\AgendaContatos.dproj=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/03/06 17:55:46.283,=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula AgendaContatos\Unit1.pas</Transaction>
+    <Transaction>2022/03/06 17:56:14.396,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula AgendaContatos\UnitDM.pas=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula AgendaContatos\Unit1.pas</Transaction>
+    <Transaction>2022/03/06 17:56:14.396,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula AgendaContatos\UnitDM.dfm=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula AgendaContatos\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
