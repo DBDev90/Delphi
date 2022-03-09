@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/06 19:22:32.000.757,=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/07 13:08:37.000.702,=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/07 13:08:53.000.846,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\UnitPrincipal.dfm=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/03/07 13:08:53.000.846,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\UnitPrincipal.pas=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/07 13:08:58.000.388,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\ClinicaMedica.dproj=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/03/07 15:06:33.000.397,=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\Unit2.pas</Transaction>
+    <Transaction>2022/03/07 15:07:33.000.493,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\UnitCadPaciente.dfm=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\Unit2.dfm</Transaction>
+    <Transaction>2022/03/07 15:07:33.000.493,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\UnitCadPaciente.pas=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\Unit2.pas</Transaction>
+    <Transaction>2022/03/07 15:07:37.000.656,=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\Unit3.pas</Transaction>
+    <Transaction>2022/03/07 15:07:46.000.118,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\UnitCadAgendamento.pas=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\Unit3.pas</Transaction>
+    <Transaction>2022/03/07 15:07:46.000.118,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\UnitCadAgendamento.dfm=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\Unit3.dfm</Transaction>
+    <Transaction>2022/03/07 15:19:41.000.932,=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\Unit1.pas</Transaction>
+    <Transaction>2022/03/07 15:20:15.000.149,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\UnitBDClinica.dfm=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\Unit1.dfm</Transaction>
+    <Transaction>2022/03/07 15:20:15.000.149,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\UnitBDClinica.pas=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ClinicaMedica\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
