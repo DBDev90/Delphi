@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/06 19:22:32.000.757,=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/08 18:18:06.000.127,=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/09 20:56:26.451,=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/09 21:02:28.670,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ConsultaABanco\UnitPrincipal.dfm=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/03/09 21:02:28.670,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ConsultaABanco\UnitPrincipal.pas=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/09 21:02:37.455,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ConsultaABanco\AulaConsultaBanco.dproj=C:\Users\WINDOWS 10 TI\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/03/09 21:12:34.948,=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ConsultaABanco\Unit1.pas</Transaction>
+    <Transaction>2022/03/09 21:13:14.239,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ConsultaABanco\UnitDM.dfm=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ConsultaABanco\Unit1.dfm</Transaction>
+    <Transaction>2022/03/09 21:13:14.239,C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ConsultaABanco\UnitDM.pas=C:\Users\WINDOWS 10 TI\Documents\Delphi\Aula ConsultaABanco\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
